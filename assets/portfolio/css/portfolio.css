@@ -31,7 +31,7 @@ body{
 
 /* ##### 00 : GENERAL  ##### */
 section{
-  margin-top: 50px;
+  margin-top: 100px;
 }
 .green-section{
   background-color:#7beec7;
@@ -323,9 +323,9 @@ header.main-header{
   position: relative;
   top:0;
   left: 0;
-  z-index: 9;
-  
+  z-index: 9;  
 }
+
 /*logo*/
 header.main-header .container .logo{
   float: left;
@@ -442,7 +442,7 @@ header.main-header .menu-icon .line:last-child{width: 20px;}
 
 /*footer*/
 footer.main-footer{
-  padding: 50px 0;
+  padding: 50px 0;  
 }
 footer.main-footer nav.footer-nav ul{
   padding: 0;
