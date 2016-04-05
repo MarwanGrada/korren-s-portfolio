@@ -334,8 +334,8 @@ header.main-header{
 /*logo*/
 header.main-header .container .logo{
   float: left;
-  height: 30px;
-  width: 240px;
+  height: 100px;
+  width: 140px;
   line-height: 100px;
 }
 
